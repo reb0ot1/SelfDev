@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "SelfDevelopmentProj.BehavioralPatterns": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:60854;http://localhost:60855"
+    }
+  }
+}
